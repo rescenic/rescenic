@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rescenic&row=1&column=7&theme=gruvbox&no-bg=true&no-frame=true" alt="rescenic" /></a> </p>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rescenic&show_icons=true&locale=en&layout=compact" alt="rescenic" /></p>
+<!---<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rescenic&show_icons=true&locale=en&layout=compact" alt="rescenic" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&locale=en" alt="rescenic" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&locale=en" alt="rescenic" /></p>
 
 <!---<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rescenic&" alt="rescenic" /></p>-->
 
