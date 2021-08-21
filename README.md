@@ -34,6 +34,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Self-Learning](https://rescenic.xyz/a-comprehensive-guide-to-self-learning)
+- [A Glorious Example Post](https://rescenic.xyz/a-glorious-example-post)
+- [Welcome to Jekyll!](https://rescenic.xyz/welcome-to-jekyll)
+- [Markdown Syntax Preview](https://rescenic.xyz/markdown-syntax-preview)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
