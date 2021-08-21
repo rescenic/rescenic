@@ -1,10 +1,6 @@
 name: Latest Youtube Videos
 
 on:
-    push:
-        branches:
-            - master
-
     schedule:
         - cron: "0 * * * *"
 
