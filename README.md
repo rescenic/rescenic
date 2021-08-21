@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile! 😎
 
 <!--
 **rescenic/rescenic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![rescenic](https://github-profile-trophy.vercel.app/?username=rescenic&row=2&column=3&theme=gruvbox&no-bg=true&no-frame=true)
+![rescenic](https://github-profile-trophy.vercel.app/?username=rescenic&row=3&column=4&theme=gruvbox&no-bg=true&no-frame=true)
