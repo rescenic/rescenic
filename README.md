@@ -37,12 +37,11 @@
 ### Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
--   [A Comprehensive Guide to Self-Learning](https://rescenic.xyz/a-comprehensive-guide-to-self-learning)
--   [A Glorious Example Post](https://rescenic.xyz/a-glorious-example-post)
--   [Welcome to Jekyll!](https://rescenic.xyz/welcome-to-jekyll)
--   [Markdown Syntax Preview](https://rescenic.xyz/markdown-syntax-preview)
+- [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
+- [A Comprehensive Guide to Self-Learning](https://rescenic.xyz/a-comprehensive-guide-to-self-learning)
+- [A Glorious Example Post](https://rescenic.xyz/a-glorious-example-post)
+- [Welcome to Jekyll!](https://rescenic.xyz/welcome-to-jekyll)
+- [Markdown Syntax Preview](https://rescenic.xyz/markdown-syntax-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
