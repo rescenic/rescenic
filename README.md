@@ -4,9 +4,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
 
+### GitHub Stats
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rescenic&row=1&column=7&theme=gruvbox&no-bg=true&no-frame=true" alt="rescenic" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&locale=en&theme=gruvbox" alt="rescenic" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&locale=en&theme=gruvbox" alt="rescenic" /></p>
 
 [<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=rescenic&theme=gruvbox">](https://https://rescenic.xyz) [<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rescenic&theme=gruvbox&height=&layout=compact&langs_count=100">](https://https://rescenic.xyz)
 
