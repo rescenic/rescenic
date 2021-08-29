@@ -33,28 +33,26 @@
 ### Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
--   [A Comprehensive Guide to Self-Learning](https://rescenic.xyz/a-comprehensive-guide-to-self-learning)
--   [A Glorious Example Post](https://rescenic.xyz/a-glorious-example-post)
--   [Welcome to Jekyll!](https://rescenic.xyz/welcome-to-jekyll)
--   [Markdown Syntax Preview](https://rescenic.xyz/markdown-syntax-preview)
+- [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
+- [A Comprehensive Guide to Self-Learning](https://rescenic.xyz/a-comprehensive-guide-to-self-learning)
+- [A Glorious Example Post](https://rescenic.xyz/a-glorious-example-post)
+- [Welcome to Jekyll!](https://rescenic.xyz/welcome-to-jekyll)
+- [Markdown Syntax Preview](https://rescenic.xyz/markdown-syntax-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
--   [Paket Resetter Canon](https://www.youtube.com/watch?v=8W6ec2hxhUU)
--   [ICD-10 & ICD-9-CM INACBGs KEMKES](https://www.youtube.com/watch?v=3trJx-8BO1A)
--   [Resetter Epson L4150 L4160 L3110 L3150 L1110 L485 L100 L120 L350 L360](https://www.youtube.com/watch?v=CCvLvVbA9JY)
--   [EXCEL ICD-10 2010 INACBGs KEMKES](https://www.youtube.com/watch?v=mKmvTsFUfJw)
--   [Resetter Epson L3110 L3150 Bonus Resetter L100 L120 L210 L350 L360 L380 L485](https://www.youtube.com/watch?v=5P4w38I7Ypc)
--   [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
--   [Hiromi Konno - Anata Shika Mie Nai](https://www.youtube.com/watch?v=f9oQcZel3CA)
--   [ClaryS - Irony](https://www.youtube.com/watch?v=8t6T7nUpAOo)
--   [Saori Atsumi - Boku no Koe](https://www.youtube.com/watch?v=yTNNhVcK8So)
--   [Saori Atsumi - Youmeiro no Koi](https://www.youtube.com/watch?v=fV0MAjtG6as)
+- [Paket Resetter Canon](https://www.youtube.com/watch?v=8W6ec2hxhUU)
+- [ICD-10 & ICD-9-CM INACBGs KEMKES](https://www.youtube.com/watch?v=3trJx-8BO1A)
+- [Resetter Epson L4150 L4160 L3110 L3150 L1110 L485 L100 L120 L350 L360](https://www.youtube.com/watch?v=CCvLvVbA9JY)
+- [EXCEL ICD-10 2010 INACBGs KEMKES](https://www.youtube.com/watch?v=mKmvTsFUfJw)
+- [Resetter Epson L3110 L3150 Bonus Resetter L100 L120 L210 L350 L360 L380 L485](https://www.youtube.com/watch?v=5P4w38I7Ypc)
+- [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
+- [Hiromi Konno - Anata Shika Mie Nai](https://www.youtube.com/watch?v=f9oQcZel3CA)
+- [ClaryS - Irony](https://www.youtube.com/watch?v=8t6T7nUpAOo)
+- [Saori Atsumi - Boku no Koe](https://www.youtube.com/watch?v=yTNNhVcK8So)
+- [Saori Atsumi - Youmeiro no Koi](https://www.youtube.com/watch?v=fV0MAjtG6as)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with Me</h3>
