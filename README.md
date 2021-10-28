@@ -6,7 +6,7 @@
 
 ### **~:> My GitHub Stats**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rescenic&row=1&column=7&theme=gruvbox&no-bg=false&no-frame=false" alt="rescenic" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rescenic&row=1&column=7&theme=gruvbox&no-bg=false&no-frame=false" alt="rescenic" /></a> </p>-->
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&locale=en&theme=gruvbox" alt="rescenic" /></p>
 
