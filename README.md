@@ -6,12 +6,14 @@
 
 ### **~:> My GitHub Stats**
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rescenic&row=1&column=7&theme=gruvbox&no-bg=false&no-frame=false" alt="rescenic" /></a> </p>-->
+<div align="center">
+  <a href="https://github.com/rescenic">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=rescenic&theme=gruvbox"/>
+</a></div>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&locale=en&theme=gruvbox" alt="rescenic" /></p>
-
-[<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=rescenic&theme=gruvbox">](https://https://rescenic.xyz) [<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rescenic&theme=gruvbox&height=&layout=compact&langs_count=100">](https://https://rescenic.xyz)
-
+---
 -   🔭 I’m currently working on **secrets**.
 
 -   🌱 I’m currently learning **nodejs, react, flutter, kotlin, ruby, golang**.
