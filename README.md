@@ -16,9 +16,9 @@
 ---
 -   🔭 I’m currently working on **secrets**.
 
--   🌱 I’m currently learning **nodejs, react, flutter, kotlin, ruby, golang**.
+-   🌱 I’m currently learning **microservices, docker, kubernetes, python, nodejs, react, flutter, kotlin, ruby, golang**.
 
--   👯 I’m looking to collaborate on **azure, aws**.
+-   👯 I’m looking to collaborate on **azure, aws, terraform, oracle cloud**.
 
 -   🤝 I’m looking for help with **fundraising**.
 
