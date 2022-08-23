@@ -24,7 +24,7 @@
 
 -   👨‍💻 All of my projects are available at **[https://git.io/rescenic](https://git.io/rescenic).**
 
--   📝 I regularly write articles on **[https://rescenic.xyz](https://rescenic.xyz).**
+-   📝 I regularly write articles on **[http://rescenic.my.id](http://rescenic.my.id).**
 
 -   💬 Ask me about **wsl, bots, linux, server, mikrotik**.
 
