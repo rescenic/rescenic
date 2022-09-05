@@ -43,7 +43,6 @@
 ### **~:> My Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
-- [Final Project - Flutter Bootcamp](https://www.youtube.com/watch?v=cyHmFcDB8HM)
 - [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
 - [Hiromi Konno - Anata Shika Mie Nai](https://www.youtube.com/watch?v=f9oQcZel3CA)
 - [ClaryS - Irony](https://www.youtube.com/watch?v=8t6T7nUpAOo)
