@@ -44,11 +44,6 @@
 
 <!-- YOUTUBE:START -->
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
-- [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
-- [Hiromi Konno - Anata Shika Mie Nai](https://www.youtube.com/watch?v=f9oQcZel3CA)
-- [ClaryS - Irony](https://www.youtube.com/watch?v=8t6T7nUpAOo)
-- [Saori Atsumi - Boku no Koe](https://www.youtube.com/watch?v=yTNNhVcK8So)
-- [Saori Atsumi - Youmeiro no Koi](https://www.youtube.com/watch?v=fV0MAjtG6as)
 - [Terraria Orcworm Merchant Dead](https://www.youtube.com/watch?v=M3cBwZfMKzU)
 <!-- YOUTUBE:END -->
 
