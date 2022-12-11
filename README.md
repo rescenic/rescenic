@@ -10,8 +10,8 @@
   <a href="https://github.com/rescenic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
-  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=rescenic&theme=gruvbox"/>
-</a></div>
+<!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=rescenic&theme=gruvbox"/>
+</a></div> -->
 
 ---
 -   🔭 I’m currently working on **secrets**.
