@@ -22,7 +22,7 @@
 ---
 -   🔭 I’m currently working on **secrets**.
 
--   🌱 I’m currently learning **microservices, docker, kubernetes, python, nodejs, react, flutter, kotlin, ruby, golang**.
+-   🌱 I’m currently learning **secrets**.
 
 -   👯 I’m looking to collaborate on **azure, aws, terraform, oracle cloud**.
 
