@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
 
 <div align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rescenic/rescenic/blob/master/devcard.svg" width="400" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
+<a href="https://app.daily.dev/rescenic"><img src="https://github.com/rescenic/rescenic/blob/master/devcard.svg" width="400" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
 </div>
 
 
