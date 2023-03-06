@@ -43,11 +43,8 @@
 ### **~:> My Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [My Latest Resume](https://rescenic.my.id/latest-resume)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
-- [A Comprehensive Guide to Self-Learning](https://rescenic.my.id/a-comprehensive-guide-to-self-learning)
-- [A Glorious Example Post](https://rescenic.my.id/a-glorious-example-post)
-- [Welcome to Jekyll!](https://rescenic.my.id/welcome-to-jekyll)
-- [Markdown Syntax Preview](https://rescenic.my.id/markdown-syntax-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ### **~:> My Latest Youtube Videos**
