@@ -51,7 +51,6 @@
 
 <!-- YOUTUBE:START -->
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
-- [Terraria Orcworm Merchant Dead](https://www.youtube.com/watch?v=M3cBwZfMKzU)
 <!-- YOUTUBE:END -->
 
 ### **~:> Connect with me**
