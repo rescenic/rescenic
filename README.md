@@ -24,7 +24,7 @@
 
 -   🌱 I’m currently learning **secrets**.
 
--   👯 I’m looking to collaborate on **azure, aws, terraform, oracle cloud**.
+-   👯 I’m looking to collaborate on **azure, aws, google cloud platform, oracle cloud**.
 
 -   🤝 I’m looking for help with **fundraising**.
 
