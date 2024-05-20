@@ -44,7 +44,7 @@
 ### **~:> My Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [My Latest Resume](https://rescenic.my.id/latest-resume)
+- [Portfolio](https://rescenic.my.id/portfolio)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
 
