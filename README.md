@@ -20,6 +20,7 @@
 </a></div>
 
 ---
+
 ### **~:> Tech Stack**
 
 - #### 📊 Analytics & Metrics
@@ -116,7 +117,7 @@
 
 - #### Alibaba Cloud Certified Developer
 <div align="center">
-<img src="https://github.com/rescenic/rescenic/blob/master/certs/alibaba_cloud_certified_developer.jpg" width="400" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
+  <img src="https://github.com/rescenic/rescenic/blob/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
 </div>
 
 ### **~:> Latest Blogs Posts**
