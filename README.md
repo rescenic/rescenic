@@ -2,20 +2,31 @@
 <h3 align="center">DevOps Engineer</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock, etc.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
+<p align='center'>
+  <a href="https://github.com/sponsors/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" />
+  </a>
+</p>
 
 <div align="center">
-<a href="https://app.daily.dev/rescenic"><img src="https://github.com/rescenic/rescenic/blob/master/devcard.png" width="400" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
+<a href="https://app.daily.dev/rescenic" target="_blank"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/devcard.png" width="600" alt="Muhammad Ridwan Hakim's Dev Card"/></a>
 </div>
 
 ### **~:> GitHub Stats**
 
 <div align="center">
-  <a href="https://github.com/rescenic">
-  <p align="center"><img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400"></p>
-  <img height="180em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
-  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox"/>
+  <a href="https://github.com/rescenic" target="_blank">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg" alt="Metrics" width="400">
+    </p>
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="160em" src="https://rescenic-stats.vercel.app/api?username=rescenic&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+      <img height="160em" src="https://rescenic-stats.vercel.app/api/top-langs/?username=rescenic&layout=compact&langs_count=7&theme=gruvbox"/>
+    </div>
+    <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox"/>
   </a>
 </div>
 
@@ -109,16 +120,23 @@
 
 - #### ❤ Funding
 
-  [![paypal.me/rescenic](https://img.shields.io/badge/-paypal.me/rescenic-333333?style=flat&logo=paypal)](https://paypal.me/rescenic)
-  [![ko-fi.com/rescenic](https://img.shields.io/badge/-ko--fi.com%2Frescenic-333333?style=flat&logo=kofi)](https://ko-fi.com/rescenic)
-  [![GitHub Sponsors](https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors)](https://github.com/sponsors/rescenic)
+  <a href="https://paypal.me/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/-paypal.me/rescenic-333333?style=flat&logo=paypal" alt="paypal.me/rescenic">
+  </a>
+  <a href="https://ko-fi.com/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/-ko--fi.com%2Frescenic-333333?style=flat&logo=kofi" alt="ko-fi.com/rescenic">
+  </a>
+  <a href="https://github.com/sponsors/rescenic" target="_blank">
+    <img src="https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors" alt="GitHub Sponsors">
+  </a>
+
 
 ### **~:> Certifications**
 
 - #### Alibaba Cloud Certified Developer
-<div align="center">
-  <img src="https://github.com/rescenic/rescenic/blob/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
-</div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
+  </div>
 
 ### **~:> Latest Blogs Posts**
 
@@ -137,11 +155,11 @@
 
 ### **~:> Connect with me**
 
-- #### Email: rescenic@svk.jp, rescenin@gmail.com
-- #### LinkedIn: https://linkedin.com/in/muhridwanhakim
+- #### Email: [rescenic@svk.jp](mailto:rescenic@svk.jp), [rescenin@gmail.com](mailto:rescenin@gmail.com)
+- #### LinkedIn: <a href="https://linkedin.com/in/muhridwanhakim" target="_blank">https://linkedin.com/in/muhridwanhakim</a>
 
 <h5 align="center">©️ rescenic 2024</h5>
 
 <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </a>
