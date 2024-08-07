@@ -61,10 +61,10 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 
-- #### ⚡ Database
+- #### ⚡ Databases
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
@@ -77,6 +77,16 @@
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
   ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-333333?style=flat&logo=amazon-dynamodb)
   ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazon-rds)
+
+- #### 🆅 Source Control Management
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=subversion)
+  ![Mercurial](https://img.shields.io/badge/-Mercurial-333333?style=flat&logo=mercurial)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Gitea](https://img.shields.io/badge/-Gitea-333333?style=flat&logo=gitea)
 
 - #### ☁ Cloud Infrastructures & Virtualization
 
@@ -109,8 +119,6 @@
   ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=PowerShell)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Shell)
   ![ZSH](https://img.shields.io/badge/-ZSH-333333?style=flat&logo=ZSH)
-  ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
