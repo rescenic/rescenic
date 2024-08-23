@@ -154,7 +154,6 @@
 ### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio](https://rescenic.my.id/portfolio)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
 
