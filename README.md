@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan Hakim</h1>
-<h3 align="center">DevOps Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Industrial Engineer and IT Project Manager.</h3>
+<h3 align="center">Certified Professional IT Auditor, DevOps Engineer, Network Administrator, System Administrator, Full Stack Developer, Software Translator, Industrial Engineer and IT Project Manager.</h3>
 <h4 align="center">Translator of SumatraPDF, Total Commander, FeedDemon, Athan, Listary, RapidEE, AllMyNotes Organizer, CintaNotes, DropIt, Popcorn Time, FocusWriter, Disqus, AdBlock, etc.</h4>
 
 <p align='center'>
@@ -201,6 +201,9 @@
 - #### Alibaba Cloud Certified Developer
   <div align="center">
     <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/cpita_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - Certified Professional IT Auditor">
   </div>
 
 ### **~:> Latest Blogs Posts**
