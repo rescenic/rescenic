@@ -195,13 +195,13 @@
     <img src="https://img.shields.io/badge/-github.com/sponsors/rescenic-333333?style=flat&logo=github-sponsors" alt="GitHub Sponsors">
   </a>
 
-
 ### **~:> Certifications**
 
 - #### Alibaba Cloud Certified Developer
   <div align="center">
     <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/alibaba_cloud_certified_developer.jpg" width="600" alt="Muhammad Ridwan Hakim - Alibaba Cloud Certified Developer">
   </div>
+- #### Certified Professional Information Technology Auditor
   <div align="center">
     <img src="https://raw.githubusercontent.com/rescenic/rescenic/master/certs/cpita_mrh_2024.png" width="600" alt="Muhammad Ridwan Hakim - Certified Professional IT Auditor">
   </div>
@@ -209,6 +209,7 @@
 ### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Portfolio](https://rescenic.my.id/portfolio)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
@@ -216,6 +217,7 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
+
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
 <!-- YOUTUBE:END -->
 
