@@ -217,7 +217,6 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
-
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
 <!-- YOUTUBE:END -->
 
