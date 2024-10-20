@@ -217,6 +217,7 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
+- [Final Project Golang Sanbercode Batch 60   Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
 <!-- YOUTUBE:END -->
 
