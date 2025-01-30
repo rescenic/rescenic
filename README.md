@@ -226,8 +226,16 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
+- [Tugas Pelatihan C++ Microcontroller Himatika UNSIA x Kelas Robot - Muhammad Ridwan Hakim](https://www.youtube.com/watch?v=zc-8xEhWPQw)
+- [Final Project - Laravel Bootcamp Sanbercode - Kelompok 9](https://www.youtube.com/watch?v=-EINP9D_x6A)
 - [Final Project Golang Sanbercode Batch 60   Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
 - [Belajar Simulasi Jaringan MikroTik di GNS3 VirtualBox LENGKAP FULL](https://www.youtube.com/watch?v=Ewft2sTVQzo)
+- [Final Project - Flutter Bootcamp](https://www.youtube.com/watch?v=cyHmFcDB8HM)
+- [Hero Siege - Best Marksman](https://www.youtube.com/watch?v=nLaZ_cjnpL4)
+- [Hero Siege - Best Nomad](https://www.youtube.com/watch?v=u2JJLqgPqDs)
+- [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
+- [Saori Atsumi - Youmeiro no Koi](https://www.youtube.com/watch?v=fV0MAjtG6as)
+- [Terraria Orcworm Merchant Dead](https://www.youtube.com/watch?v=M3cBwZfMKzU)
 <!-- YOUTUBE:END -->
 
 ### **~:> Connect with me**
