@@ -188,6 +188,10 @@
 
   **Business Intelligence, Data Mining, Project Management, Organizational Design, Human Capital Management, Business Process Engineering, Product & Service Design, Product & Service Improvement, Work Design and Ergonomics, Facility Layout Design, Quality Control System, Industrial Statistics, Industrial Psychology, System Modelling, Operational Research, Marketing Research, Marketing Strategy, Integrated Marketing Communication, Customer Relationship Management, Information System Design, Procurement, Supply Chain Management, Production Planning & Inventory Control**
 
+- #### ✨ Standards & Frameworks
+
+  **ISO 9001, ISO 14001, ISO 45001, ISO 22000, COBIT, TOGAF, ITAF, COBIT 5, PMBOK, BABOK, PMP, ITIL, CHFI, CEH, NIST, CISA, CISM, CISSP, CRISC**
+
 - #### ❤ Funding
 
   <a href="https://paypal.me/rescenic" target="_blank">
