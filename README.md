@@ -230,6 +230,7 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
+- [Fix GNS3 Version 3 No Internet Connection - Solve GNS3 Version 3 Can&#39;t Ping Google - 2025](https://www.youtube.com/watch?v=q4A2w1KPfK8)
 - [Tugas Pelatihan C++ Microcontroller Himatika UNSIA x Kelas Robot - Muhammad Ridwan Hakim](https://www.youtube.com/watch?v=zc-8xEhWPQw)
 - [Final Project - Laravel Bootcamp Sanbercode - Kelompok 9](https://www.youtube.com/watch?v=-EINP9D_x6A)
 - [Final Project Golang Sanbercode Batch 60   Klinik Gumuruh API](https://www.youtube.com/watch?v=NfAYUJv2D5U)
@@ -239,7 +240,6 @@
 - [Hero Siege - Best Nomad](https://www.youtube.com/watch?v=u2JJLqgPqDs)
 - [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
 - [Saori Atsumi - Youmeiro no Koi](https://www.youtube.com/watch?v=fV0MAjtG6as)
-- [Terraria Orcworm Merchant Dead](https://www.youtube.com/watch?v=M3cBwZfMKzU)
 <!-- YOUTUBE:END -->
 
 ### **~:> Connect with me**
