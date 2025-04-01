@@ -247,7 +247,7 @@
 - #### Email: [rescenic@svk.jp](mailto:rescenic@svk.jp), [rescenin@gmail.com](mailto:rescenin@gmail.com)
 - #### LinkedIn: <a href="https://linkedin.com/in/muhridwanhakim" target="_blank">https://linkedin.com/in/muhridwanhakim</a>
 
-<h5 align="center">©️ rescenic 2024</h5>
+<h5 align="center">©️ rescenic 2025</h5>
 
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
