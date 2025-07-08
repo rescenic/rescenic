@@ -18,10 +18,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_repositories: yes
