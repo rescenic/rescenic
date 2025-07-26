@@ -222,7 +222,6 @@
 ### **~:> Latest Blogs Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio](https://rescenic.my.id/portfolio)
 - [Best PowerShell Dev Environment on Windows](https://dev.to/rescenic/best-powershell-dev-environment-on-windows-4kg9)
 - [Windows Terminal Preview Context Menu](https://dev.to/rescenic/windows-terminal-preview-context-menu-1oo5)
 <!-- BLOG-POST-LIST:END -->
