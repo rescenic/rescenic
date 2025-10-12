@@ -39,6 +39,7 @@
 
 - #### 📊 Analytics & Metrics
 
+  ![Awstats](https://img.shields.io/badge/-Awstats-333333?style=flat&logo=socialblade)
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=google%20analytics)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
