@@ -232,6 +232,7 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
+- [UTS - English - Group 7 - Fine Dining Restaurant Conversation - Version 2](https://www.youtube.com/watch?v=315iDuFyCBU)
 - [Fix GNS3 Version 3 No Internet Connection - Solve GNS3 Version 3 Can&#39;t Ping Google - 2025](https://www.youtube.com/watch?v=q4A2w1KPfK8)
 - [Tugas Pelatihan C++ Microcontroller Himatika UNSIA x Kelas Robot - Muhammad Ridwan Hakim](https://www.youtube.com/watch?v=zc-8xEhWPQw)
 - [Final Project - Laravel Bootcamp Sanbercode - Kelompok 9](https://www.youtube.com/watch?v=-EINP9D_x6A)
@@ -241,7 +242,6 @@
 - [Hero Siege - Best Marksman](https://www.youtube.com/watch?v=nLaZ_cjnpL4)
 - [Hero Siege - Best Nomad](https://www.youtube.com/watch?v=u2JJLqgPqDs)
 - [Saori Atsumi - Mou Sukoshi](https://www.youtube.com/watch?v=l97Mg06P1YQ)
-- [Saori Atsumi - Youmeiro no Koi](https://www.youtube.com/watch?v=fV0MAjtG6as)
 <!-- YOUTUBE:END -->
 
 ### **~:> Connect with me**
