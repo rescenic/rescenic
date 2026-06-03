@@ -209,7 +209,7 @@
 ### **~:> Latest Youtube Videos**
 
 <!-- YOUTUBE:START -->
-- [TIC2026 WebDev SiberMu AI Universitas Siber Muhammadiyah](https://www.youtube.com/watch?v=8flaDgkDBVA)
+- [Grim Dawn Steam Foil Badge](https://www.youtube.com/watch?v=J-X4hfZWK_Y)
 - [Fix GNS3 Version 3 No Internet Connection - Solve GNS3 Version 3 Can&#39;t Ping Google - 2025](https://www.youtube.com/watch?v=q4A2w1KPfK8)
 - [Tugas Pelatihan C++ Microcontroller Himatika UNSIA x Kelas Robot - Muhammad Ridwan Hakim](https://www.youtube.com/watch?v=zc-8xEhWPQw)
 - [Final Project - Laravel Bootcamp Sanbercode - Kelompok 9](https://www.youtube.com/watch?v=-EINP9D_x6A)
