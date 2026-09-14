@@ -12,8 +12,6 @@
 
 [![GitHub metrics](https://raw.githubusercontent.com/rescenic/rescenic/master/github-metrics.svg "Metrics")](https://github.com/rescenic)
 
-[![WakaTime](https://raw.githubusercontent.com/rescenic/rescenic/master/wakatime.svg "WakaTime")](https://github.com/rescenic)
-
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rescenic&theme=gruvbox)
 
 ---
